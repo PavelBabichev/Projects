@@ -1,0 +1,9 @@
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\LabelRun\bin\Debug\LabelRun.exe.config
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\LabelRun\bin\Debug\LabelRun.exe
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\LabelRun\bin\Debug\LabelRun.pdb
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\LabelRun\obj\Debug\LabelRun.Form1.resources
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\LabelRun\obj\Debug\LabelRun.Properties.Resources.resources
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\LabelRun\obj\Debug\LabelRun.csproj.GenerateResource.Cache
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\LabelRun\obj\Debug\LabelRun.exe
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\LabelRun\obj\Debug\LabelRun.pdb
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\LabelRun\obj\Debug\LabelRun.csprojResolveAssemblyReference.cache

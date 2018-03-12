@@ -1,0 +1,8 @@
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\Homework1\bin\Debug\Homework1.exe.config
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\Homework1\bin\Debug\Homework1.exe
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\Homework1\bin\Debug\Homework1.pdb
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\Homework1\obj\Debug\Renome.csprojResolveAssemblyReference.cache
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\Homework1\obj\Debug\Homework1.Properties.Resources.resources
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\Homework1\obj\Debug\Renome.csproj.GenerateResource.Cache
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\Homework1\obj\Debug\Homework1.exe
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\Homework1\obj\Debug\Homework1.pdb

@@ -1,0 +1,9 @@
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\MouseEvent\bin\Debug\MouseEvent.exe.config
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\MouseEvent\bin\Debug\MouseEvent.exe
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\MouseEvent\bin\Debug\MouseEvent.pdb
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\MouseEvent\obj\Debug\MouseEvent.csprojResolveAssemblyReference.cache
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\MouseEvent\obj\Debug\MouseEvent.Form1.resources
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\MouseEvent\obj\Debug\MouseEvent.Properties.Resources.resources
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\MouseEvent\obj\Debug\MouseEvent.csproj.GenerateResource.Cache
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\MouseEvent\obj\Debug\MouseEvent.exe
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\MouseEvent\obj\Debug\MouseEvent.pdb

@@ -1,0 +1,9 @@
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\LabelList\bin\Debug\LabelList.exe.config
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\LabelList\bin\Debug\LabelList.exe
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\LabelList\bin\Debug\LabelList.pdb
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\LabelList\obj\Debug\LabelList.Properties.Resources.resources
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\LabelList\obj\Debug\LabelList.csproj.GenerateResource.Cache
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\LabelList\obj\Debug\LabelList.exe
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\LabelList\obj\Debug\LabelList.pdb
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\LabelList\obj\Debug\LabelList.csprojResolveAssemblyReference.cache
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\LabelList\obj\Debug\LabelList.Form1.resources

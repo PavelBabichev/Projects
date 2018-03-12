@@ -1,0 +1,8 @@
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\GuessNumber\bin\Debug\GuessNumber.exe.config
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\GuessNumber\bin\Debug\GuessNumber.exe
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\GuessNumber\bin\Debug\GuessNumber.pdb
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\GuessNumber\obj\Debug\GuessNumber.Properties.Resources.resources
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\GuessNumber\obj\Debug\GuessNumber.csproj.GenerateResource.Cache
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\GuessNumber\obj\Debug\GuessNumber.exe
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\GuessNumber\obj\Debug\GuessNumber.pdb
+c:\users\pavel.pavel-пк\documents\visual studio 2013\Projects\Homework1\GuessNumber\obj\Debug\GuessNumber.csprojResolveAssemblyReference.cache
